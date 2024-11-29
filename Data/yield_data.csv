@@ -1,0 +1,897 @@
+Crop,District,Year,Season,Area(Hectare),Production(Tonne),Yield(Tonne/Hectare)
+Bajra,Anantapur,2014 - 2015,Kharif,1752,1028,0.59
+Bajra,Anantapur,2015 - 2016,Kharif,3226,3326,1.03
+Bajra,Anantapur,2016 - 2017,Kharif,2467,1258,0.51
+Bajra,Anantapur,2017 - 2018,Kharif,5261,7034,1.34
+Bajra,Anantapur,2018 - 2019,Kharif,2979,3447,1.16
+Bajra,Anantapur,2019 - 2020,Kharif,2241,3431,1.53
+Bajra,Anantapur,2020 - 2021,Kharif,2427,3432,1.41
+Bajra,Chittoor,2014 - 2015,Kharif,2071,4622,2.23
+Bajra,Chittoor,2015 - 2016,Kharif,2374,6669,2.81
+Bajra,Chittoor,2016 - 2017,Kharif,2242,6188,2.76
+Bajra,Chittoor,2017 - 2018,Kharif,2104,4810,2.29
+Bajra,Chittoor,2018 - 2019,Kharif,1830,3958,2.16
+Bajra,Chittoor,2019 - 2020,Kharif,2085,7717,3.7
+Bajra,Chittoor,2020 - 2021,Kharif,3269,9029,2.76
+Bajra,East godavari,2014 - 2015,Kharif,58,75,1.29
+Bajra,East godavari,2015 - 2016,Kharif,65,62,0.95
+Bajra,East godavari,2016 - 2017,Kharif,78,86,1.1
+Bajra,East godavari,2017 - 2018,Kharif,61,68,1.11
+Bajra,East godavari,2018 - 2019,Kharif,90,93,1.03
+Bajra,East godavari,2019 - 2020,Kharif,5,6,1.2
+Bajra,East godavari,2020 - 2021,Kharif,6,5,0.83
+Bajra,Guntur,2014 - 2015,Kharif,689,758,1.1
+Bajra,Guntur,2015 - 2016,Kharif,1556,3179,2.04
+Bajra,Guntur,2016 - 2017,Kharif,2219,1267,0.57
+Bajra,Guntur,2017 - 2018,Kharif,1273,1192,0.94
+Bajra,Guntur,2018 - 2019,Kharif,67,95,1.42
+Bajra,Guntur,2019 - 2020,Kharif,18,36,2
+Bajra,Guntur,2020 - 2021,Kharif,870,995,1.14
+Bajra,Kadapa,2014 - 2015,Kharif,1173,3010,2.57
+Bajra,Kadapa,2015 - 2016,Kharif,2340,3749,1.6
+Bajra,Kadapa,2016 - 2017,Kharif,3610,4220,1.17
+Bajra,Kadapa,2017 - 2018,Kharif,5842,12181,2.09
+Bajra,Kadapa,2018 - 2019,Kharif,845,1208,1.43
+Bajra,Kadapa,2019 - 2020,Kharif,1081,2733,2.53
+Bajra,Kadapa,2020 - 2021,Kharif,2841,7117,2.51
+Bajra,Kurnool,2014 - 2015,Kharif,5056,7083,1.4
+Bajra,Kurnool,2015 - 2016,Kharif,9765,13251,1.36
+Bajra,Kurnool,2016 - 2017,Kharif,8413,14479,1.72
+Bajra,Kurnool,2017 - 2018,Kharif,7885,15305,1.94
+Bajra,Kurnool,2018 - 2019,Kharif,6612,4827,0.73
+Bajra,Kurnool,2019 - 2020,Kharif,6529,14886,2.28
+Bajra,Kurnool,2020 - 2021,Kharif,4278,5878,1.37
+Bajra,Prakasam,2014 - 2015,Kharif,10611,10887,1.03
+Bajra,Prakasam,2015 - 2016,Kharif,10744,24056,2.24
+Bajra,Prakasam,2016 - 2017,Kharif,16399,32568,1.99
+Bajra,Prakasam,2017 - 2018,Kharif,17246,35027,2.03
+Bajra,Prakasam,2018 - 2019,Kharif,6607,5272,0.8
+Bajra,Prakasam,2019 - 2020,Kharif,7178,16495,2.3
+Bajra,Prakasam,2020 - 2021,Kharif,9810,28557,2.91
+Bajra,Spsr nellore,2014 - 2015,Kharif,622,1663,2.67
+Bajra,Spsr nellore,2015 - 2016,Kharif,371,1350,3.64
+Bajra,Spsr nellore,2016 - 2017,Kharif,1388,5186,3.74
+Bajra,Spsr nellore,2017 - 2018,Kharif,1802,4801,2.66
+Bajra,Spsr nellore,2018 - 2019,Kharif,219,364,1.66
+Bajra,Spsr nellore,2019 - 2020,Kharif,173,472,2.73
+Bajra,Spsr nellore,2020 - 2021,Kharif,1273,3717,2.92
+Bajra,Srikakulam,2014 - 2015,Kharif,196,522,2.66
+Bajra,Srikakulam,2015 - 2016,Kharif,176,444,2.52
+Bajra,Srikakulam,2016 - 2017,Kharif,125,420,3.36
+Bajra,Srikakulam,2017 - 2018,Kharif,87,291,3.34
+Bajra,Srikakulam,2018 - 2019,Kharif,84,140,1.67
+Bajra,Srikakulam,2019 - 2020,Kharif,83,127,1.53
+Bajra,Srikakulam,2020 - 2021,Kharif,40,90,2.25
+Bajra,Visakhapatanam,2014 - 2015,Kharif,2395,2170,0.91
+Bajra,Visakhapatanam,2015 - 2016,Kharif,2506,2448,0.98
+Bajra,Visakhapatanam,2016 - 2017,Kharif,1731,1816,1.05
+Bajra,Visakhapatanam,2017 - 2018,Kharif,1696,2047,1.21
+Bajra,Visakhapatanam,2018 - 2019,Kharif,1517,1716,1.13
+Bajra,Visakhapatanam,2019 - 2020,Kharif,1057,1101,1.04
+Bajra,Visakhapatanam,2020 - 2021,Kharif,1214,1162,0.96
+Bajra,Vizianagaram,2014 - 2015,Kharif,132,95,0.72
+Bajra,Vizianagaram,2015 - 2016,Kharif,196,356,1.82
+Bajra,Vizianagaram,2016 - 2017,Kharif,90,110,1.22
+Bajra,Vizianagaram,2017 - 2018,Kharif,110,160,1.45
+Bajra,Vizianagaram,2018 - 2019,Kharif,82,92,1.12
+Bajra,Vizianagaram,2019 - 2020,Kharif,34,41,1.21
+Bajra,Vizianagaram,2020 - 2021,Kharif,31,30,0.97
+Cotton,Anantapur,2014 - 2015,Kharif,73734,103779,1.41
+Cotton,Anantapur,2015 - 2016,Kharif,60154,100071,1.66
+Cotton,Anantapur,2016 - 2017,Kharif,31691,25977,0.82
+Cotton,Anantapur,2017 - 2018,Kharif,45438,128798,2.83
+Cotton,Anantapur,2018 - 2019,Kharif,47976,66591,1.39
+Cotton,Anantapur,2019 - 2020,Kharif,51850,15523,0.3
+Cotton,Anantapur,2020 - 2021,Kharif,40424,35183,0.87
+Cotton,Chittoor,2014 - 2015,Kharif,308,723,2.35
+Cotton,Chittoor,2015 - 2016,Kharif,435,761,1.75
+Cotton,Chittoor,2016 - 2017,Kharif,517,1311,2.54
+Cotton,Chittoor,2017 - 2018,Kharif,328,877,2.67
+Cotton,Chittoor,2018 - 2019,Kharif,177,218,1.23
+Cotton,Chittoor,2019 - 2020,Kharif,157,82,0.52
+Cotton,Chittoor,2020 - 2021,Kharif,28,78,2.79
+Cotton,East godavari,2014 - 2015,Kharif,22433,47597,2.12
+Cotton,East godavari,2015 - 2016,Kharif,20565,60153,2.93
+Cotton,East godavari,2016 - 2017,Kharif,12743,33744,2.65
+Cotton,East godavari,2017 - 2018,Kharif,16364,35740,2.18
+Cotton,East godavari,2018 - 2019,Kharif,11933,31637,2.65
+Cotton,East godavari,2019 - 2020,Kharif,12896,6617,0.51
+Cotton,East godavari,2020 - 2021,Kharif,6962,15995,2.3
+Cotton,Guntur,2014 - 2015,Kharif,206374,1075856,5.21
+Cotton,Guntur,2015 - 2016,Kharif,198220,768744,3.88
+Cotton,Guntur,2016 - 2017,Kharif,141856,654201,4.61
+Cotton,Guntur,2017 - 2018,Kharif,183735,802213,4.37
+Cotton,Guntur,2018 - 2019,Kharif,176679,743399,4.21
+Cotton,Guntur,2019 - 2020,Kharif,182408,167541,0.92
+Cotton,Guntur,2020 - 2021,Kharif,162789,458324,2.82
+Cotton,Kadapa,2014 - 2015,Kharif,34346,57550,1.68
+Cotton,Kadapa,2015 - 2016,Kharif,32753,46665,1.42
+Cotton,Kadapa,2016 - 2017,Kharif,18840,17430,0.93
+Cotton,Kadapa,2017 - 2018,Kharif,24449,17720,0.72
+Cotton,Kadapa,2018 - 2019,Kharif,10940,22268,2.04
+Cotton,Kadapa,2019 - 2020,Kharif,13410,9576,0.71
+Cotton,Kadapa,2020 - 2021,Kharif,15227,15625,1.03
+Cotton,Krishna,2014 - 2015,Kharif,55571,261650,4.71
+Cotton,Krishna,2015 - 2016,Kharif,52784,200829,3.8
+Cotton,Krishna,2016 - 2017,Kharif,37312,159453,4.27
+Cotton,Krishna,2017 - 2018,Kharif,48357,195830,4.05
+Cotton,Krishna,2018 - 2019,Kharif,47109,174431,3.7
+Cotton,Krishna,2019 - 2020,Kharif,48423,37671,0.78
+Cotton,Krishna,2020 - 2021,Kharif,47851,111337,2.33
+Cotton,Kurnool,2014 - 2015,Kharif,306058,809620,2.65
+Cotton,Kurnool,2015 - 2016,Kharif,200123,366412,1.83
+Cotton,Kurnool,2016 - 2017,Kharif,176195,531777,3.02
+Cotton,Kurnool,2017 - 2018,Kharif,259225,733779,2.83
+Cotton,Kurnool,2018 - 2019,Kharif,259498,304183,1.17
+Cotton,Kurnool,2019 - 2020,Kharif,274620,153618,0.56
+Cotton,Kurnool,2020 - 2021,Kharif,275798,862950,3.13
+Cotton,Prakasam,2014 - 2015,Kharif,71520,252407,3.53
+Cotton,Prakasam,2015 - 2016,Kharif,58025,163447,2.82
+Cotton,Prakasam,2016 - 2017,Kharif,14105,43441,3.08
+Cotton,Prakasam,2017 - 2018,Kharif,35076,84281,2.4
+Cotton,Prakasam,2018 - 2019,Kharif,38467,77234,2.01
+Cotton,Prakasam,2019 - 2020,Kharif,45376,22296,0.49
+Cotton,Prakasam,2020 - 2021,Kharif,32175,44541,1.38
+Cotton,Spsr nellore,2014 - 2015,Kharif,6615,20463,3.09
+Cotton,Spsr nellore,2015 - 2016,Kharif,4617,10969,2.38
+Cotton,Spsr nellore,2016 - 2017,Kharif,2124,5169,2.43
+Cotton,Spsr nellore,2017 - 2018,Kharif,3863,7591,1.97
+Cotton,Spsr nellore,2018 - 2019,Kharif,791,2097,2.65
+Cotton,Spsr nellore,2019 - 2020,Kharif,1012,435,0.43
+Cotton,Spsr nellore,2020 - 2021,Kharif,2748,7539,2.74
+Cotton,Srikakulam,2014 - 2015,Kharif,9563,42122,4.4
+Cotton,Srikakulam,2015 - 2016,Kharif,8883,28105,3.16
+Cotton,Srikakulam,2016 - 2017,Kharif,7155,24143,3.37
+Cotton,Srikakulam,2017 - 2018,Kharif,7478,27390,3.66
+Cotton,Srikakulam,2018 - 2019,Kharif,5488,16246,2.96
+Cotton,Srikakulam,2019 - 2020,Kharif,5712,3016,0.53
+Cotton,Srikakulam,2020 - 2021,Kharif,3723,13491,3.62
+Cotton,Visakhapatanam,2014 - 2015,Kharif,2840,12510,4.4
+Cotton,Visakhapatanam,2015 - 2016,Kharif,2123,3609,1.7
+Cotton,Visakhapatanam,2016 - 2017,Kharif,1652,1950,1.18
+Cotton,Visakhapatanam,2017 - 2018,Kharif,1474,2000,1.36
+Cotton,Visakhapatanam,2018 - 2019,Kharif,1092,1632,1.49
+Cotton,Visakhapatanam,2019 - 2020,Kharif,976,396,0.41
+Cotton,Visakhapatanam,2020 - 2021,Kharif,810,660,0.81
+Cotton,Vizianagaram,2014 - 2015,Kharif,15698,37286,2.38
+Cotton,Vizianagaram,2015 - 2016,Kharif,15597,33141,2.12
+Cotton,Vizianagaram,2016 - 2017,Kharif,14632,31148,2.13
+Cotton,Vizianagaram,2017 - 2018,Kharif,13630,33550,2.46
+Cotton,Vizianagaram,2018 - 2019,Kharif,11485,26016,2.27
+Cotton,Vizianagaram,2019 - 2020,Kharif,12257,5430,0.44
+Cotton,Vizianagaram,2020 - 2021,Kharif,10070,21451,2.13
+Cotton,West godavari,2014 - 2015,Kharif,9795,13807,1.41
+Cotton,West godavari,2015 - 2016,Kharif,8392,27715,3.3
+Cotton,West godavari,2016 - 2017,Kharif,4615,14782,3.2
+Cotton,West godavari,2017 - 2018,Kharif,4525,13985,3.09
+Cotton,West godavari,2018 - 2019,Kharif,5235,16989,3.25
+Cotton,West godavari,2019 - 2020,Kharif,4856,2285,0.47
+Cotton,West godavari,2020 - 2021,Kharif,4770,7792,1.63
+Groundnut,Anantapur,2014 - 2015,Kharif,550794,148714,0.27
+Groundnut,Anantapur,2015 - 2016,Kharif,444657,319708,0.72
+Groundnut,Anantapur,2016 - 2017,Kharif,608162,140485,0.23
+Groundnut,Anantapur,2017 - 2018,Kharif,402435,412093,1.02
+Groundnut,Anantapur,2018 - 2019,Kharif,474392,150857,0.32
+Groundnut,Anantapur,2019 - 2020,Kharif,371029,277530,0.75
+Groundnut,Anantapur,2020 - 2021,Kharif,481154,227586,0.47
+Groundnut,Anantapur,2014 - 2015,Kharif,122578,72811,0.59
+Groundnut,Anantapur,2015 - 2016,Kharif,114394,130867,1.14
+Groundnut,Anantapur,2016 - 2017,Kharif,133124,71887,0.54
+Groundnut,Chittoor,2017 - 2018,Kharif,115048,214449,1.86
+Groundnut,Chittoor,2018 - 2019,Kharif,99275,89645,0.9
+Groundnut,Chittoor,2019 - 2020,Kharif,95746,165832,1.73
+Groundnut,Chittoor,2020 - 2021,Kharif,122977,127404,1.04
+Groundnut,Chittoor,2014 - 2015,Kharif,27,44,1.63
+Groundnut,Chittoor,2015 - 2016,Kharif,57,119,2.09
+Groundnut,Chittoor,2016 - 2017,Kharif,45,101,2.24
+Groundnut,East godavari,2017 - 2018,Kharif,7,18,2.57
+Groundnut,East godavari,2019 - 2020,Kharif,9,27,3
+Groundnut,East godavari,2020 - 2021,Kharif,12,41,3.42
+Groundnut,East godavari,2014 - 2015,Kharif,804,1298,1.61
+Groundnut,East godavari,2015 - 2016,Kharif,559,1168,2.09
+Groundnut,East godavari,2016 - 2017,Kharif,698,1572,2.25
+Groundnut,Guntur,2017 - 2018,Kharif,584,1465,2.51
+Groundnut,Guntur,2018 - 2019,Kharif,597,1732,2.9
+Groundnut,Guntur,2019 - 2020,Kharif,390,1190,3.05
+Groundnut,Guntur,2020 - 2021,Kharif,434,1568,3.61
+Groundnut,Guntur,2014 - 2015,Kharif,15754,6963,0.44
+Groundnut,Guntur,2015 - 2016,Kharif,28676,36619,1.28
+Groundnut,Guntur,2016 - 2017,Kharif,52015,19558,0.38
+Groundnut,Kadapa,2017 - 2018,Kharif,25317,39495,1.56
+Groundnut,Kadapa,2018 - 2019,Kharif,8627,4443,0.52
+Groundnut,Kadapa,2019 - 2020,Kharif,8332,13156,1.58
+Groundnut,Kadapa,2020 - 2021,Kharif,29827,28932,0.97
+Groundnut,Kadapa,2014 - 2015,Kharif,999,2690,2.69
+Groundnut,Kadapa,2015 - 2016,Kharif,1050,3583,3.41
+Groundnut,Kadapa,2016 - 2017,Kharif,926,4085,4.41
+Groundnut,Krishna,2017 - 2018,Kharif,1148,3123,2.72
+Groundnut,Krishna,2018 - 2019,Kharif,1029,4183,4.07
+Groundnut,Krishna,2019 - 2020,Kharif,870,3611,4.15
+Groundnut,Krishna,2020 - 2021,Kharif,1079,2487,2.3
+Groundnut,Krishna,2014 - 2015,Kharif,94160,67607,0.72
+Groundnut,Krishna,2015 - 2016,Kharif,73370,66620,0.91
+Groundnut,Krishna,2016 - 2017,Kharif,113447,99153,0.87
+Groundnut,Kurnool,2017 - 2018,Kharif,85784,121985,1.42
+Groundnut,Kurnool,2018 - 2019,Kharif,89187,42542,0.48
+Groundnut,Kurnool,2019 - 2020,Kharif,79542,125040,1.57
+Groundnut,Kurnool,2020 - 2021,Kharif,93972,95288,1.01
+Groundnut,Kurnool,2014 - 2015,Kharif,2376,3835,1.61
+Groundnut,Kurnool,2015 - 2016,Kharif,2949,9572,3.25
+Groundnut,Kurnool,2016 - 2017,Kharif,3771,10069,2.67
+Groundnut,Prakasam,2017 - 2018,Kharif,3106,7420,2.39
+Groundnut,Prakasam,2018 - 2019,Kharif,1105,4239,3.84
+Groundnut,Prakasam,2019 - 2020,Kharif,1605,5117,3.19
+Groundnut,Prakasam,2020 - 2021,Kharif,2421,7483,3.09
+Groundnut,Prakasam,2014 - 2015,Kharif,4707,13297,2.82
+Groundnut,Prakasam,2015 - 2016,Kharif,5352,15895,2.97
+Groundnut,Prakasam,2016 - 2017,Kharif,12184,31971,2.62
+Groundnut,Spsr nellore,2017 - 2018,Kharif,8208,27940,3.4
+Groundnut,Spsr nellore,2018 - 2019,Kharif,6463,26039,4.03
+Groundnut,Spsr nellore,2019 - 2020,Kharif,5607,23050,4.11
+Groundnut,Spsr nellore,2020 - 2021,Kharif,10636,42916,4.03
+Groundnut,Spsr nellore,2014 - 2015,Kharif,3874,3882,1
+Groundnut,Spsr nellore,2015 - 2016,Kharif,4165,4873,1.17
+Groundnut,Spsr nellore,2016 - 2017,Kharif,2791,3366,1.21
+Groundnut,Srikakulam,2017 - 2018,Kharif,1808,1985,1.1
+Groundnut,Srikakulam,2018 - 2019,Kharif,2041,2241,1.1
+Groundnut,Srikakulam,2019 - 2020,Kharif,1097,1497,1.36
+Groundnut,Srikakulam,2020 - 2021,Kharif,341,444,1.3
+Groundnut,Srikakulam,2014 - 2015,Kharif,1383,1481,1.07
+Groundnut,Srikakulam,2015 - 2016,Kharif,1472,2053,1.39
+Groundnut,Srikakulam,2016 - 2017,Kharif,1737,2328,1.34
+Groundnut,Visakhapatanam,2017 - 2018,Kharif,1655,2243,1.36
+Groundnut,Visakhapatanam,2018 - 2019,Kharif,1726,2608,1.51
+Groundnut,Visakhapatanam,2019 - 2020,Kharif,1551,2275,1.47
+Groundnut,Visakhapatanam,2020 - 2021,Kharif,1385,2925,2.11
+Groundnut,Visakhapatanam,2014 - 2015,Kharif,6189,6344,1.03
+Groundnut,Visakhapatanam,2015 - 2016,Kharif,4428,4614,1.04
+Groundnut,Visakhapatanam,2016 - 2017,Kharif,3285,3797,1.16
+Groundnut,Vizianagaram,2017 - 2018,Kharif,2046,2371,1.16
+Groundnut,Vizianagaram,2018 - 2019,Kharif,1825,1851,1.01
+Groundnut,Vizianagaram,2019 - 2020,Kharif,980,1259,1.28
+Groundnut,Vizianagaram,2020 - 2021,Kharif,470,569,1.21
+Groundnut,Vizianagaram,2014 - 2015,Kharif,343,554,1.62
+Groundnut,Vizianagaram,2015 - 2016,Kharif,1001,2092,2.09
+Groundnut,Vizianagaram,2016 - 2017,Kharif,1048,2360,2.25
+Groundnut,West godavari,2017 - 2018,Kharif,784,1967,2.51
+Groundnut,West godavari,2018 - 2019,Kharif,872,2530,2.9
+Groundnut,West godavari,2019 - 2020,Kharif,1117,2322,2.08
+Groundnut,West godavari,2020 - 2021,Kharif,816,2254,2.76
+Maize,Anantapur,2014 - 2015,Kharif,16839,42687,2.54
+Maize,Anantapur,2015 - 2016,Kharif,13743,39662,2.89
+Maize,Anantapur,2016 - 2017,Kharif,14131,29152,2.06
+Maize,Anantapur,2017 - 2018,Kharif,19044,71720,3.77
+Maize,Anantapur,2018 - 2019,Kharif,14627,41497,2.84
+Maize,Anantapur,2019 - 2020,Kharif,14089,39365,2.79
+Maize,Anantapur,2020 - 2021,Kharif,17529,67311,3.84
+Maize,Anantapur,2014 - 2015,Kharif,2693,8820,3.28
+Maize,Anantapur,2015 - 2016,Kharif,2271,8019,3.53
+Maize,Anantapur,2016 - 2017,Kharif,1144,3808,3.33
+Maize,Chittoor,2017 - 2018,Kharif,1551,8084,5.21
+Maize,Chittoor,2018 - 2019,Kharif,1307,1149,0.88
+Maize,Chittoor,2019 - 2020,Kharif,2655,6977,2.63
+Maize,Chittoor,2020 - 2021,Kharif,1493,3931,2.63
+Maize,Chittoor,2014 - 2015,Kharif,755,2500,3.31
+Maize,Chittoor,2015 - 2016,Kharif,719,2739,3.81
+Maize,Chittoor,2016 - 2017,Kharif,643,2614,4.07
+Maize,East godavari,2017 - 2018,Kharif,731,3110,4.25
+Maize,East godavari,2018 - 2019,Kharif,769,3287,4.27
+Maize,East godavari,2019 - 2020,Kharif,728,3593,4.94
+Maize,East godavari,2020 - 2021,Kharif,681,1812,2.66
+Maize,East godavari,2014 - 2015,Kharif,367,1215,3.31
+Maize,East godavari,2015 - 2016,Kharif,689,2625,3.81
+Maize,East godavari,2016 - 2017,Kharif,411,1671,4.07
+Maize,Guntur,2017 - 2018,Kharif,741,3153,4.26
+Maize,Guntur,2018 - 2019,Kharif,455,1945,4.27
+Maize,Guntur,2019 - 2020,Kharif,674,3326,4.93
+Maize,Guntur,2020 - 2021,Kharif,1119,7455,6.66
+Maize,Guntur,2014 - 2015,Kharif,408,1336,3.27
+Maize,Guntur,2015 - 2016,Kharif,190,671,3.53
+Maize,Guntur,2016 - 2017,Kharif,405,1714,4.23
+Maize,Kadapa,2017 - 2018,Kharif,918,4585,4.99
+Maize,Kadapa,2018 - 2019,Kharif,665,2673,4.02
+Maize,Kadapa,2019 - 2020,Kharif,219,985,4.5
+Maize,Kadapa,2020 - 2021,Kharif,699,1439,2.06
+Maize,Kadapa,2014 - 2015,Kharif,4682,20048,4.28
+Maize,Kadapa,2015 - 2016,Kharif,3457,13956,4.04
+Maize,Kadapa,2016 - 2017,Kharif,4545,19716,4.34
+Maize,Krishna,2017 - 2018,Kharif,5288,26789,5.07
+Maize,Krishna,2018 - 2019,Kharif,4063,14261,3.51
+Maize,Krishna,2019 - 2020,Kharif,3981,21028,5.28
+Maize,Krishna,2020 - 2021,Kharif,4322,21182,4.9
+Maize,Krishna,2014 - 2015,Kharif,38554,138717,3.6
+Maize,Krishna,2015 - 2016,Kharif,18239,73284,4.02
+Maize,Krishna,2016 - 2017,Kharif,27874,149600,5.37
+Maize,Kurnool,2017 - 2018,Kharif,39752,221657,5.58
+Maize,Kurnool,2018 - 2019,Kharif,40845,185559,4.54
+Maize,Kurnool,2019 - 2020,Kharif,30737,167271,5.44
+Maize,Kurnool,2020 - 2021,Kharif,46849,181680,3.88
+Maize,Kurnool,2014 - 2015,Kharif,1183,4294,3.63
+Maize,Kurnool,2015 - 2016,Kharif,415,2329,5.61
+Maize,Kurnool,2016 - 2017,Kharif,726,2189,3.02
+Maize,Prakasam,2017 - 2018,Kharif,1727,7568,4.38
+Maize,Prakasam,2018 - 2019,Kharif,1290,2327,1.8
+Maize,Prakasam,2019 - 2020,Kharif,1068,7434,6.96
+Maize,Prakasam,2020 - 2021,Kharif,1799,7608,4.23
+Maize,Prakasam,2014 - 2015,Kharif,132,437,3.31
+Maize,Prakasam,2015 - 2016,Kharif,78,297,3.81
+Maize,Prakasam,2016 - 2017,Kharif,102,415,4.07
+Maize,Spsr nellore,2017 - 2018,Kharif,82,349,4.26
+Maize,Spsr nellore,2018 - 2019,Kharif,254,1086,4.28
+Maize,Spsr nellore,2019 - 2020,Kharif,49,183,3.73
+Maize,Spsr nellore,2020 - 2021,Kharif,128,456,3.56
+Maize,Spsr nellore,2014 - 2015,Kharif,9103,36330,3.99
+Maize,Spsr nellore,2015 - 2016,Kharif,10570,44013,4.16
+Maize,Spsr nellore,2016 - 2017,Kharif,9989,36610,3.67
+Maize,Srikakulam,2017 - 2018,Kharif,11430,47412,4.15
+Maize,Srikakulam,2018 - 2019,Kharif,14747,67394,4.57
+Maize,Srikakulam,2019 - 2020,Kharif,15975,73325,4.59
+Maize,Srikakulam,2020 - 2021,Kharif,14955,47377,3.17
+Maize,Srikakulam,2014 - 2015,Kharif,5894,9224,1.56
+Maize,Srikakulam,2015 - 2016,Kharif,5310,12176,2.29
+Maize,Srikakulam,2016 - 2017,Kharif,5559,11101,2
+Maize,Visakhapatanam,2017 - 2018,Kharif,5805,10420,1.8
+Maize,Visakhapatanam,2018 - 2019,Kharif,5814,16227,2.79
+Maize,Visakhapatanam,2019 - 2020,Kharif,4894,16512,3.37
+Maize,Visakhapatanam,2020 - 2021,Kharif,4690,14980,3.19
+Maize,Visakhapatanam,2014 - 2015,Kharif,16616,47705,2.87
+Maize,Visakhapatanam,2015 - 2016,Kharif,16577,62247,3.76
+Maize,Visakhapatanam,2016 - 2017,Kharif,17458,81319,4.66
+Maize,Vizianagaram,2017 - 2018,Kharif,18027,86061,4.77
+Maize,Vizianagaram,2018 - 2019,Kharif,18264,86663,4.75
+Maize,Vizianagaram,2019 - 2020,Kharif,18600,99436,5.35
+Maize,Vizianagaram,2020 - 2021,Kharif,18386,73673,4.01
+Maize,Vizianagaram,2014 - 2015,Kharif,2637,15445,5.86
+Maize,Vizianagaram,2015 - 2016,Kharif,2759,14187,5.14
+Maize,Vizianagaram,2016 - 2017,Kharif,2514,14855,5.91
+Maize,West godavari,2017 - 2018,Kharif,2180,10893,5
+Maize,West godavari,2018 - 2019,Kharif,1270,7372,5.8
+Maize,West godavari,2019 - 2020,Kharif,1922,11497,5.98
+Maize,West godavari,2020 - 2021,Kharif,1361,5109,3.75
+Ragi,Anantapur,2014 - 2015,Kharif,1136,1713,1.51
+Ragi,Anantapur,2015 - 2016,Kharif,1214,2651,2.18
+Ragi,Anantapur,2016 - 2017,Kharif,1108,2345,2.12
+Ragi,Anantapur,2017 - 2018,Kharif,1641,3833,2.34
+Ragi,Anantapur,2018 - 2019,Kharif,1055,2095,1.99
+Ragi,Anantapur,2019 - 2020,Kharif,1337,2491,1.86
+Ragi,Anantapur,2020 - 2021,Kharif,2400,4054,1.69
+Ragi,Chittoor,2014 - 2015,Kharif,4556,3686,0.81
+Ragi,Chittoor,2015 - 2016,Kharif,5197,5582,1.07
+Ragi,Chittoor,2016 - 2017,Kharif,4333,1738,0.4
+Ragi,Chittoor,2017 - 2018,Kharif,5904,7433,1.26
+Ragi,Chittoor,2018 - 2019,Kharif,4620,7503,1.62
+Ragi,Chittoor,2019 - 2020,Kharif,5066,7847,1.55
+Ragi,Chittoor,2020 - 2021,Kharif,5503,6400,1.16
+Ragi,East godavari,2014 - 2015,Kharif,406,387,0.95
+Ragi,East godavari,2015 - 2016,Kharif,225,191,0.85
+Ragi,East godavari,2016 - 2017,Kharif,252,253,1
+Ragi,East godavari,2017 - 2018,Kharif,295,291,0.99
+Ragi,East godavari,2018 - 2019,Kharif,267,290,1.09
+Ragi,East godavari,2019 - 2020,Kharif,139,119,0.86
+Ragi,East godavari,2020 - 2021,Kharif,326,379,1.16
+Ragi,Kadapa,2014 - 2015,Kharif,11,10,0.91
+Ragi,Kadapa,2015 - 2016,Kharif,7,9,1.29
+Ragi,Kadapa,2016 - 2017,Kharif,19,14,0.74
+Ragi,Kadapa,2017 - 2018,Kharif,16,24,1.5
+Ragi,Kadapa,2018 - 2019,Kharif,10,17,1.7
+Ragi,Kadapa,2020 - 2021,Kharif,24,32,1.33
+Ragi,Kurnool,2020 - 2021,Kharif,1,1,1
+Ragi,Prakasam,2014 - 2015,Kharif,24,23,0.96
+Ragi,Prakasam,2015 - 2016,Kharif,65,55,0.85
+Ragi,Prakasam,2016 - 2017,Kharif,3,3,1
+Ragi,Prakasam,2017 - 2018,Kharif,31,31,1
+Ragi,Prakasam,2018 - 2019,Kharif,29,31,1.07
+Ragi,Prakasam,2019 - 2020,Kharif,33,37,1.12
+Ragi,Prakasam,2020 - 2021,Kharif,19,20,1.05
+Ragi,Spsr nellore,2014 - 2015,Kharif,34,32,0.94
+Ragi,Spsr nellore,2015 - 2016,Kharif,22,19,0.86
+Ragi,Spsr nellore,2016 - 2017,Kharif,101,102,1.01
+Ragi,Spsr nellore,2017 - 2018,Kharif,59,58,0.98
+Ragi,Spsr nellore,2018 - 2019,Kharif,110,119,1.08
+Ragi,Spsr nellore,2019 - 2020,Kharif,22,32,1.45
+Ragi,Spsr nellore,2020 - 2021,Kharif,68,81,1.19
+Ragi,Srikakulam,2014 - 2015,Kharif,207,277,1.34
+Ragi,Srikakulam,2015 - 2016,Kharif,291,373,1.28
+Ragi,Srikakulam,2016 - 2017,Kharif,250,409,1.64
+Ragi,Srikakulam,2017 - 2018,Kharif,154,247,1.6
+Ragi,Srikakulam,2018 - 2019,Kharif,253,322,1.27
+Ragi,Srikakulam,2019 - 2020,Kharif,206,270,1.31
+Ragi,Srikakulam,2020 - 2021,Kharif,138,157,1.14
+Ragi,Visakhapatanam,2014 - 2015,Kharif,20880,19982,0.96
+Ragi,Visakhapatanam,2015 - 2016,Kharif,17955,15082,0.84
+Ragi,Visakhapatanam,2016 - 2017,Kharif,19248,19267,1
+Ragi,Visakhapatanam,2017 - 2018,Kharif,16731,16681,1
+Ragi,Visakhapatanam,2018 - 2019,Kharif,16623,18235,1.1
+Ragi,Visakhapatanam,2019 - 2020,Kharif,17859,19859,1.11
+Ragi,Visakhapatanam,2020 - 2021,Kharif,16528,17189,1.04
+Ragi,Vizianagaram,2014 - 2015,Kharif,1488,1244,0.84
+Ragi,Vizianagaram,2015 - 2016,Kharif,1627,1440,0.89
+Ragi,Vizianagaram,2016 - 2017,Kharif,1583,1505,0.95
+Ragi,Vizianagaram,2017 - 2018,Kharif,1809,1530,0.85
+Ragi,Vizianagaram,2018 - 2019,Kharif,1026,855,0.83
+Ragi,Vizianagaram,2019 - 2020,Kharif,998,1258,1.26
+Ragi,Vizianagaram,2020 - 2021,Kharif,908,1299,1.43
+Ragi,West godavari,2016 - 2017,Kharif,2,2,1
+Rice,Anantapur,2014 - 2015,Kharif,22658,68155,3.01
+Rice,Anantapur,2015 - 2016,Kharif,20033,61012,3.05
+Rice,Anantapur,2016 - 2017,Kharif,17983,44138,2.45
+Rice,Anantapur,2017 - 2018,Kharif,12293,30831,2.51
+Rice,Anantapur,2018 - 2019,Kharif,21938,58673,2.67
+Rice,Anantapur,2019 - 2020,Kharif,18209,65726,3.61
+Rice,Anantapur,2020 - 2021,Kharif,20037,54581,2.72
+Rice, Chittoor,2014 - 2015,Kharif,13304,44462,3.34
+Rice, Chittoor,2015 - 2016,Kharif,9476,32587,3.44
+Rice, Chittoor,2016 - 2017,Kharif,22905,78527,3.43
+Rice, Chittoor,2017 - 2018,Kharif,15061,53768,3.57
+Rice, Chittoor,2018 - 2019,Kharif,17422,64122,3.68
+Rice, Chittoor,2019 - 2020,Kharif,10664,42981,4.03
+Rice, Chittoor,2020 - 2021,Kharif,29724,108006,3.63
+Rice,East godavari,2014 - 2015,Kharif,226072,681833,3.02
+Rice,East godavari,2015 - 2016,Kharif,227836,696471,3.06
+Rice,East godavari,2016 - 2017,Kharif,220489,737644,3.35
+Rice,East godavari,2017 - 2018,Kharif,225683,771836,3.42
+Rice,East godavari,2018 - 2019,Kharif,222214,830017,3.74
+Rice,East godavari,2019 - 2020,Kharif,221042,744209,3.37
+Rice,East godavari,2020 - 2021,Kharif,220431,498020,2.26
+Rice, Guntur,2014 - 2015,Kharif,255607,1000190,3.91
+Rice, Guntur,2015 - 2016,Kharif,160608,465820,2.9
+Rice, Guntur,2016 - 2017,Kharif,163747,685336,4.19
+Rice, Guntur,2017 - 2018,Kharif,183828,766563,4.17
+Rice, Guntur,2018 - 2019,Kharif,216433,857796,3.96
+Rice, Guntur,2019 - 2020,Kharif,220272,877858,3.99
+Rice, Guntur,2020 - 2021,Kharif,213628,668086,3.13
+Rice,Kadapa,2014 - 2015,Kharif,42124,155648,3.69
+Rice,Kadapa,2015 - 2016,Kharif,18625,50337,2.7
+Rice,Kadapa,2016 - 2017,Kharif,44388,146747,3.31
+Rice,Kadapa,2017 - 2018,Kharif,30717,70496,2.3
+Rice,Kadapa,2018 - 2019,Kharif,39041,126779,3.25
+Rice,Kadapa,2019 - 2020,Kharif,32647,99769,3.06
+Rice,Kadapa,2020 - 2021,Kharif,36780,70201,1.91
+Rice, Krishna,2014 - 2015,Kharif,235212,788901,3.35
+Rice, Krishna,2015 - 2016,Kharif,210818,707083,3.35
+Rice, Krishna,2016 - 2017,Kharif,215895,833499,3.86
+Rice, Krishna,2017 - 2018,Kharif,235984,930721,3.94
+Rice, Krishna,2018 - 2019,Kharif,245815,1022427,4.16
+Rice, Krishna,2019 - 2020,Kharif,243863,945538,3.88
+Rice, Krishna,2020 - 2021,Kharif,250926,812833,3.24
+Rice,Kurnool,2014 - 2015,Kharif,91569,361514,3.95
+Rice,Kurnool,2015 - 2016,Kharif,46316,145993,3.15
+Rice,Kurnool,2016 - 2017,Kharif,79264,322068,4.06
+Rice,Kurnool,2017 - 2018,Kharif,59592,206963,3.47
+Rice,Kurnool,2018 - 2019,Kharif,88858,346199,3.9
+Rice,Kurnool,2019 - 2020,Kharif,82759,329605,3.98
+Rice,Kurnool,2020 - 2021,Kharif,83979,247240,2.94
+Rice,Prakasam,2014 - 2015,Kharif,31764,121783,3.83
+Rice,Prakasam,2015 - 2016,Kharif,14187,61438,4.33
+Rice,Prakasam,2016 - 2017,Kharif,19297,64177,3.33
+Rice,Prakasam,2017 - 2018,Kharif,27547,107543,3.9
+Rice,Prakasam,2018 - 2019,Kharif,27778,102036,3.67
+Rice,Prakasam,2019 - 2020,Kharif,29872,111711,3.74
+Rice,Prakasam,2020 - 2021,Kharif,26622,90446,3.4
+Rice, Spsr nellore,2014 - 2015,Kharif,62232,232561,3.74
+Rice, Spsr nellore,2015 - 2016,Kharif,30413,110683,3.64
+Rice, Spsr nellore,2016 - 2017,Kharif,73827,287991,3.9
+Rice, Spsr nellore,2017 - 2018,Kharif,21184,81029,3.83
+Rice, Spsr nellore,2018 - 2019,Kharif,26638,94011,3.53
+Rice, Spsr nellore,2019 - 2020,Kharif,16680,64015,3.84
+Rice, Spsr nellore,2020 - 2021,Kharif,88911,320079,3.6
+Rice,Srikakulam,2014 - 2015,Kharif,205485,434806,2.12
+Rice,Srikakulam,2015 - 2016,Kharif,204003,470320,2.31
+Rice,Srikakulam,2016 - 2017,Kharif,203411,605174,2.98
+Rice,Srikakulam,2017 - 2018,Kharif,210682,531129,2.52
+Rice,Srikakulam,2018 - 2019,Kharif,209426,431177,2.06
+Rice,Srikakulam,2019 - 2020,Kharif,209640,594503,2.84
+Rice,Srikakulam,2020 - 2021,Kharif,195124,504643,2.59
+Rice, Visakhapatanam,2014 - 2015,Kharif,98190,159755,1.63
+Rice, Visakhapatanam,2015 - 2016,Kharif,103090,219339,2.13
+Rice, Visakhapatanam,2016 - 2017,Kharif,105460,237203,2.25
+Rice, Visakhapatanam,2017 - 2018,Kharif,104922,218972,2.09
+Rice, Visakhapatanam,2018 - 2019,Kharif,99900,168397,1.69
+Rice, Visakhapatanam,2019 - 2020,Kharif,96998,230642,2.38
+Rice, Visakhapatanam,2020 - 2021,Kharif,102722,249848,2.43
+Rice, Vizianagaram,2014 - 2015,Kharif,119229,314526,2.64
+Rice, Vizianagaram,2015 - 2016,Kharif,124275,366590,2.95
+Rice, Vizianagaram,2016 - 2017,Kharif,122205,371142,3.04
+Rice, Vizianagaram,2017 - 2018,Kharif,122675,364590,2.97
+Rice, Vizianagaram,2018 - 2019,Kharif,121499,284061,2.34
+Rice, Vizianagaram,2019 - 2020,Kharif,119381,384713,3.22
+Rice, Vizianagaram,2020 - 2021,Kharif,108497,310379,2.86
+Rice, West godavari,2014 - 2015,Kharif,231475,733313,3.17
+Rice, West godavari,2015 - 2016,Kharif,229204,727885,3.18
+Rice, West godavari,2016 - 2017,Kharif,230785,820044,3.55
+Rice, West godavari,2017 - 2018,Kharif,226760,807492,3.56
+Rice, West godavari,2018 - 2019,Kharif,226925,857555,3.78
+Rice, West godavari,2019 - 2020,Kharif,224398,850763,3.79
+Rice, West godavari,2020 - 2021,Kharif,223249,572064,2.56
+Turmeric,Anantapur,2014 - 2015,Kharif,19,223,11.74
+Turmeric,Anantapur,2015 - 2016,Kharif,19,151,7.95
+Turmeric,Anantapur,2018 - 2019,Kharif,5,,
+Turmeric,Chittoor,2014 - 2015,Kharif,17,199,11.71
+Turmeric,Chittoor,2015 - 2016,Kharif,12,95,7.92
+Turmeric,Chittoor,2016 - 2017,Kharif,13,52,4
+Turmeric,Chittoor,2017 - 2018,Kharif,402,4824,12
+Turmeric,Chittoor,2018 - 2019,Kharif,5,4824,964.8
+Turmeric,Chittoor,2019 - 2020,Kharif,402,4824,12
+Turmeric,East godavari,2014 - 2015,Kharif,160,1151,7.19
+Turmeric,East godavari,2015 - 2016,Kharif,164,1108,6.76
+Turmeric,East godavari,2016 - 2017,Kharif,216,912,4.22
+Turmeric,East godavari,2017 - 2018,Kharif,558,6696,12
+Turmeric,East godavari,2018 - 2019,Kharif,209,3888,18.6
+Turmeric,East godavari,2019 - 2020,Kharif,324,3888,12
+Turmeric, Guntur,2014 - 2015,Kharif,4854,38817,8
+Turmeric, Guntur,2015 - 2016,Kharif,5328,34030,6.39
+Turmeric, Guntur,2016 - 2017,Kharif,5582,25521,4.57
+Turmeric, Guntur,2017 - 2018,Kharif,5422,65064,12
+Turmeric, Guntur,2018 - 2019,Kharif,5059,61020,12.06
+Turmeric, Guntur,2019 - 2020,Kharif,4806,57672,12
+Turmeric,Kadapa,2014 - 2015,Kharif,3285,26694,8.13
+Turmeric,Kadapa,2015 - 2016,Kharif,3541,19440,5.49
+Turmeric,Kadapa,2016 - 2017,Kharif,4918,16249,3.3
+Turmeric,Kadapa,2017 - 2018,Kharif,6512,78144,12
+Turmeric,Kadapa,2018 - 2019,Kharif,4109,58164,14.16
+Turmeric,Kadapa,2019 - 2020,Kharif,5703,68436,12
+Turmeric, Krishna,2014 - 2015,Kharif,1887,22578,11.97
+Turmeric, Krishna,2015 - 2016,Kharif,2071,20878,10.08
+Turmeric, Krishna,2016 - 2017,Kharif,2318,13931,6.01
+Turmeric, Krishna,2017 - 2018,Kharif,2999,35988,12
+Turmeric, Krishna,2018 - 2019,Kharif,2281,36156,15.85
+Turmeric, Krishna,2019 - 2020,Kharif,2845,34140,12
+Turmeric, Kurnool,2014 - 2015,Kharif,2037,35705,17.53
+Turmeric, Kurnool,2015 - 2016,Kharif,1654,21786,13.17
+Turmeric, Kurnool,2016 - 2017,Kharif,1861,11103,5.97
+Turmeric, Kurnool,2017 - 2018,Kharif,1685,20220,12
+Turmeric, Kurnool,2018 - 2019,Kharif,1723,30480,17.69
+Turmeric, Kurnool,2019 - 2020,Kharif,3234,38808,12
+Turmeric, Prakasam,2014 - 2015,Kharif,698,5023,7.2
+Turmeric, Prakasam,2015 - 2016,Kharif,637,4216,6.62
+Turmeric, Prakasam,2016 - 2017,Kharif,399,1236,3.1
+Turmeric, Prakasam,2017 - 2018,Kharif,672,8064,12
+Turmeric, Prakasam,2018 - 2019,Kharif,726,8700,11.98
+Turmeric, Prakasam,2019 - 2020,Kharif,502,6024,12
+Turmeric,Spsr nellore,2014 - 2015,Kharif,174,1252,7.2
+Turmeric,Spsr nellore,2015 - 2016,Kharif,115,777,6.76
+Turmeric,Spsr nellore,2016 - 2017,Kharif,144,608,4.22
+Turmeric,Spsr nellore,2017 - 2018,Kharif,180,2160,12
+Turmeric,Spsr nellore,2018 - 2019,Kharif,106,2160,20.38
+Turmeric,Spsr nellore,2019 - 2020,Kharif,182,2184,12
+Turmeric, Srikakulam,2014 - 2015,Kharif,214,1540,7.2
+Turmeric, Srikakulam,2015 - 2016,Kharif,215,1452,6.75
+Turmeric, Srikakulam,2016 - 2017,Kharif,204,861,4.22
+Turmeric, Srikakulam,2017 - 2018,Kharif,253,3036,12
+Turmeric, Srikakulam,2018 - 2019,Kharif,204,3108,15.24
+Turmeric, Srikakulam,2019 - 2020,Kharif,253,3036,12
+Turmeric, Visakhapatanam,2014 - 2015,Kharif,2940,8270,2.81
+Turmeric, Visakhapatanam,2015 - 2016,Kharif,2998,15401,5.14
+Turmeric, Visakhapatanam,2016 - 2017,Kharif,3164,7723,2.44
+Turmeric, Visakhapatanam,2017 - 2018,Kharif,9913,118956,12
+Turmeric, Visakhapatanam,2018 - 2019,Kharif,5628,104556,18.58
+Turmeric, Visakhapatanam,2019 - 2020,Kharif,11286,135432,12
+Turmeric, Visakhapatanam,2014 - 2015,Kharif,47,338,7.19
+Turmeric, Visakhapatanam,2015 - 2016,Kharif,31,209,6.74
+Turmeric,Vizianagaram,2016 - 2017,Kharif,31,131,4.23
+Turmeric,Vizianagaram,2018 - 2019,Kharif,58,480,8.28
+Turmeric,Vizianagaram,2014 - 2015,Kharif,197,1418,7.2
+Turmeric,Vizianagaram,2015 - 2016,Kharif,210,1418,6.75
+Turmeric,Vizianagaram,2016 - 2017,Kharif,318,1343,4.22
+Turmeric, West godavari,2017 - 2018,Kharif,325,3900,12
+Turmeric, West godavari,2018 - 2019,Kharif,259,2628,10.15
+Turmeric, West godavari,2019 - 2020,Kharif,180,2160,12
+Castor seed,Anantapur,2014 - 2015,Rabi,229,131,0.57
+Castor seed,Anantapur,2015 - 2016,Rabi,118,111,0.94
+Castor seed,Anantapur,2016 - 2017,Rabi,35,11,0.31
+Castor seed,Anantapur,2017 - 2018,Rabi,42,24,0.57
+Castor seed,Anantapur,2018 - 2019,Rabi,79,41,0.52
+Castor seed,Anantapur,2019 - 2020,Rabi,70,30,0.43
+Castor seed,Anantapur,2020 - 2021,Rabi,64,25,0.39
+Castor seed,Guntur,2014 - 2015,Rabi,11,16,1.45
+Castor seed,Guntur,2015 - 2016,Rabi,288,373,1.3
+Castor seed,Guntur,2016 - 2017,Rabi,20,11,0.55
+Castor seed,Guntur,2017 - 2018,Rabi,217,420,1.94
+Castor seed,Guntur,2018 - 2019,Rabi,175,94,0.54
+Castor seed,Guntur,2019 - 2020,Rabi,67,50,0.75
+Castor seed,Guntur,2020 - 2021,Rabi,18,15,0.83
+Castor seed,Kadapa,2014 - 2015,Rabi,25,14,0.56
+Castor seed,Kadapa,2015 - 2016,Rabi,2,2,1
+Castor seed,Kadapa,2016 - 2017,Rabi,9,6,0.67
+Castor seed,Kadapa,2017 - 2018,Rabi,3,2,0.67
+Castor seed,Kadapa,2018 - 2019,Rabi,75,37,0.49
+Castor seed,Kadapa,2019 - 2020,Rabi,65,51,0.78
+Castor seed,Kadapa,2020 - 2021,Rabi,21,9,0.43
+Castor seed,Krishna,2014 - 2015,Rabi,20,,
+Castor seed,Krishna,2014 - 2015,Rabi,366,209,0.57
+Castor seed,Krishna,2015 - 2016,Rabi,72,29,0.4
+Castor seed,Krishna,2016 - 2017,Rabi,50,27,0.54
+Castor seed,Kurnool,2017 - 2018,Rabi,97,70,0.72
+Castor seed,Kurnool,2018 - 2019,Rabi,370,138,0.37
+Castor seed,Kurnool,2019 - 2020,Rabi,183,177,0.97
+Castor seed,Kurnool,2020 - 2021,Rabi,78,40,0.51
+Castor seed,Prakasam,2014 - 2015,Rabi,1064,468,0.44
+Castor seed,Prakasam,2015 - 2016,Rabi,1305,711,0.54
+Castor seed,Prakasam,2016 - 2017,Rabi,413,219,0.53
+Castor seed,Prakasam,2017 - 2018,Rabi,547,207,0.38
+Castor seed,Prakasam,2018 - 2019,Rabi,1132,325,0.29
+Castor seed,Prakasam,2019 - 2020,Rabi,671,329,0.49
+Castor seed,Prakasam,2020 - 2021,Rabi,235,51,0.22
+Castor seed,Spsr nellore,2018 - 2019,Rabi,8,2,0.25
+Gram,Anantapur,2014 - 2015,Rabi,68092,38676,0.57
+Gram,Anantapur,2015 - 2016,Rabi,75799,34185,0.45
+Gram,Anantapur,2016 - 2017,Rabi,22874,5924,0.26
+Gram,Anantapur,2017 - 2018,Rabi,74397,50590,0.68
+Gram,Anantapur,2018 - 2019,Rabi,78340,19428,0.25
+Gram,Anantapur,2019 - 2020,Rabi,92409,70878,0.77
+Gram,Anantapur,2020 - 2021,Rabi,87490,37883,0.43
+Gram,Chittoor,2014 - 2015,Rabi,7,7,1
+Gram,Chittoor,2015 - 2016,Rabi,2,2,1
+Gram,Chittoor,2016 - 2017,Rabi,4,3,0.75
+Gram,East godavari,2014 - 2015,Rabi,97,187,1.93
+Gram,East godavari,2015 - 2016,Rabi,220,408,1.85
+Gram,East godavari,2016 - 2017,Rabi,1503,2262,1.5
+Gram,East godavari,2017 - 2018,Rabi,1813,2594,1.43
+Gram,East godavari,2018 - 2019,Rabi,2383,2569,1.08
+Gram,East godavari,2019 - 2020,Rabi,1964,3364,1.71
+Gram,East godavari,2020 - 2021,Rabi,1675,3224,1.92
+Gram,Guntur,2014 - 2015,Rabi,5945,13691,2.3
+Gram,Guntur,2015 - 2016,Rabi,16080,26210,1.63
+Gram,Guntur,2016 - 2017,Rabi,21997,43158,1.96
+Gram,Guntur,2017 - 2018,Rabi,32007,60845,1.9
+Gram,Guntur,2018 - 2019,Rabi,24815,51466,2.07
+Gram,Guntur,2019 - 2020,Rabi,16735,28182,1.68
+Gram,Guntur,2020 - 2021,Rabi,17458,33240,1.9
+Gram,Kadapa,2014 - 2015,Rabi,68169,43083,0.63
+Gram,Kadapa,2015 - 2016,Rabi,79214,89512,1.13
+Gram,Kadapa,2016 - 2017,Rabi,82032,33059,0.4
+Gram,Kadapa,2017 - 2018,Rabi,97135,68966,0.71
+Gram,Kadapa,2018 - 2019,Rabi,101525,25483,0.25
+Gram,Kadapa,2019 - 2020,Rabi,90675,115883,1.28
+Gram,Kadapa,2020 - 2021,Rabi,106078,121778,1.15
+Gram,Krishna,2014 - 2015,Rabi,769,1485,1.93
+Gram,Krishna,2015 - 2016,Rabi,1242,2567,2.07
+Gram,Krishna,2016 - 2017,Rabi,1771,3227,1.82
+Gram,Krishna,2017 - 2018,Rabi,2287,4334,1.9
+Gram,Krishna,2018 - 2019,Rabi,2851,6899,2.42
+Gram,Krishna,2019 - 2020,Rabi,3805,8314,2.19
+Gram,Krishna,2020 - 2021,Rabi,4194,6916,1.65
+Gram,Kurnool,2014 - 2015,Rabi,143877,190205,1.32
+Gram,Kurnool,2015 - 2016,Rabi,199242,159194,0.8
+Gram,Kurnool,2016 - 2017,Rabi,170870,159422,0.93
+Gram,Kurnool,2017 - 2018,Rabi,194754,249090,1.28
+Gram,Kurnool,2018 - 2019,Rabi,147343,35215,0.24
+Gram,Kurnool,2019 - 2020,Rabi,155952,198527,1.27
+Gram,Kurnool,2020 - 2021,Rabi,148711,176371,1.19
+Gram,Prakasam,2014 - 2015,Rabi,50750,95867,1.89
+Gram,Prakasam,2015 - 2016,Rabi,91972,177690,1.93
+Gram,Prakasam,2016 - 2017,Rabi,82605,123081,1.49
+Gram,Prakasam,2017 - 2018,Rabi,107733,139407,1.29
+Gram,Prakasam,2018 - 2019,Rabi,109283,91033,0.83
+Gram,Prakasam,2019 - 2020,Rabi,86177,120734,1.4
+Gram,Prakasam,2020 - 2021,Rabi,92410,138061,1.49
+Gram,Spsr nellore,2014 - 2015,Rabi,3699,7069,1.91
+Gram,Spsr nellore,2015 - 2016,Rabi,7108,9553,1.34
+Gram,Spsr nellore,2016 - 2017,Rabi,13242,10620,0.8
+Gram,Spsr nellore,2017 - 2018,Rabi,10034,12984,1.29
+Gram,Spsr nellore,2018 - 2019,Rabi,11040,10256,0.93
+Gram,Spsr nellore,2019 - 2020,Rabi,10655,12562,1.18
+Gram,Spsr nellore,2020 - 2021,Rabi,10588,14749,1.39
+Gram,Srikakulam,2014 - 2015,Rabi,1,2,2
+Gram,Visakhapatanam,2014 - 2015,Rabi,87,168,1.93
+Gram,Visakhapatanam,2015 - 2016,Rabi,102,189,1.85
+Gram,Visakhapatanam,2016 - 2017,Rabi,50,75,1.5
+Gram,Visakhapatanam,2017 - 2018,Rabi,75,107,1.43
+Gram,Visakhapatanam,2018 - 2019,Rabi,178,192,1.08
+Gram,Visakhapatanam,2019 - 2020,Rabi,82,119,1.45
+Gram,Vizianagaram,2014 - 2015,Rabi,229,442,1.93
+Gram,Vizianagaram,2015 - 2016,Rabi,123,228,1.85
+Gram,Vizianagaram,2016 - 2017,Rabi,130,196,1.51
+Gram,Vizianagaram,2017 - 2018,Rabi,112,160,1.43
+Gram,Vizianagaram,2018 - 2019,Rabi,57,61,1.07
+Gram,Vizianagaram,2019 - 2020,Rabi,121,176,1.45
+Gram,Vizianagaram,2020 - 2021,Rabi,84,130,1.55
+Gram,West godavari,2014 - 2015,Rabi,44,85,1.93
+Gram,West godavari,2015 - 2016,Rabi,25,46,1.84
+Gram,West godavari,2016 - 2017,Rabi,5,8,1.6
+Gram,West godavari,2017 - 2018,Rabi,33,47,1.42
+Gram,West godavari,2018 - 2019,Rabi,36,39,1.08
+Gram,West godavari,2019 - 2020,Rabi,4,6,1.5
+Gram,West godavari,2020 - 2021,Rabi,2,3,1.5
+Moong(Green Gram),Anantapur,2014 - 2015,Rabi,586,481,0.82
+Moong(Green Gram),Anantapur,2015 - 2016,Rabi,756,635,0.84
+Moong(Green Gram),Anantapur,2016 - 2017,Rabi,30,12,0.4
+Moong(Green Gram),Anantapur,2017 - 2018,Rabi,37,35,0.95
+Moong(Green Gram),Anantapur,2018 - 2019,Rabi,1472,923,0.63
+Moong(Green Gram),Anantapur,2019 - 2020,Rabi,130,127,0.98
+Moong(Green Gram),Anantapur,2020 - 2021,Rabi,1060,257,0.24
+Moong(Green Gram),Chittoor,2014 - 2015,Rabi,384,315,0.82
+Moong(Green Gram),Chittoor,2015 - 2016,Rabi,301,253,0.84
+Moong(Green Gram),Chittoor,2016 - 2017,Rabi,515,212,0.41
+Moong(Green Gram),Chittoor,2017 - 2018,Rabi,419,393,0.94
+Moong(Green Gram),Chittoor,2018 - 2019,Rabi,294,184,0.63
+Moong(Green Gram),Chittoor,2019 - 2020,Rabi,204,199,0.98
+Moong(Green Gram),Chittoor,2020 - 2021,Rabi,167,139,0.83
+Moong(Green Gram),East godavari,2014 - 2015,Rabi,16204,5914,0.36
+Moong(Green Gram),East godavari,2015 - 2016,Rabi,18631,6018,0.32
+Moong(Green Gram),East godavari,2016 - 2017,Rabi,19259,11767,0.61
+Moong(Green Gram),East godavari,2017 - 2018,Rabi,16315,9952,0.61
+Moong(Green Gram),East godavari,2018 - 2019,Rabi,11538,7800,0.68
+Moong(Green Gram),East godavari,2019 - 2020,Rabi,8914,6686,0.75
+Moong(Green Gram),East godavari,2020 - 2021,Rabi,6145,4517,0.74
+Moong(Green Gram),Guntur,2014 - 2015,Rabi,47589,61199,1.29
+Moong(Green Gram),Guntur,2015 - 2016,Rabi,43482,46221,1.06
+Moong(Green Gram),Guntur,2016 - 2017,Rabi,12155,7317,0.6
+Moong(Green Gram),Guntur,2017 - 2018,Rabi,22378,23967,1.07
+Moong(Green Gram),Guntur,2018 - 2019,Rabi,30510,33073,1.08
+Moong(Green Gram),Guntur,2019 - 2020,Rabi,21775,29222,1.34
+Moong(Green Gram),Guntur,2020 - 2021,Rabi,29899,35819,1.2
+Moong(Green Gram),Kadapa,2014 - 2015,Rabi,4935,4047,0.82
+Moong(Green Gram),Kadapa,2015 - 2016,Rabi,10385,8723,0.84
+Moong(Green Gram),Kadapa,2016 - 2017,Rabi,1569,645,0.41
+Moong(Green Gram),Kadapa,2017 - 2018,Rabi,213,200,0.94
+Moong(Green Gram),Kadapa,2018 - 2019,Rabi,1954,1225,0.63
+Moong(Green Gram),Kadapa,2019 - 2020,Rabi,2836,2768,0.98
+Moong(Green Gram),Kadapa,2020 - 2021,Rabi,7157,3550,0.5
+Moong(Green Gram),Krishna,2014 - 2015,Rabi,15572,12286,0.79
+Moong(Green Gram),Krishna,2015 - 2016,Rabi,8779,8402,0.96
+Moong(Green Gram),Krishna,2016 - 2017,Rabi,4101,1542,0.38
+Moong(Green Gram),Krishna,2017 - 2018,Rabi,3283,2196,0.67
+Moong(Green Gram),Krishna,2018 - 2019,Rabi,3888,3900,1
+Moong(Green Gram),Krishna,2019 - 2020,Rabi,3970,4200,1.06
+Moong(Green Gram),Krishna,2020 - 2021,Rabi,5068,5484,1.08
+Moong(Green Gram),Kurnool,2014 - 2015,Rabi,1862,1527,0.82
+Moong(Green Gram),Kurnool,2015 - 2016,Rabi,2998,2518,0.84
+Moong(Green Gram),Kurnool,2016 - 2017,Rabi,389,160,0.41
+Moong(Green Gram),Kurnool,2017 - 2018,Rabi,146,137,0.94
+Moong(Green Gram),Kurnool,2018 - 2019,Rabi,430,270,0.63
+Moong(Green Gram),Kurnool,2019 - 2020,Rabi,798,779,0.98
+Moong(Green Gram),Kurnool,2020 - 2021,Rabi,1610,1742,1.08
+Moong(Green Gram),Prakasam,2014 - 2015,Rabi,2274,1853,0.81
+Moong(Green Gram),Prakasam,2015 - 2016,Rabi,1790,1314,0.73
+Moong(Green Gram),Prakasam,2016 - 2017,Rabi,440,165,0.38
+Moong(Green Gram),Prakasam,2017 - 2018,Rabi,190,28,0.15
+Moong(Green Gram),Prakasam,2018 - 2019,Rabi,647,232,0.36
+Moong(Green Gram),Prakasam,2019 - 2020,Rabi,922,835,0.91
+Moong(Green Gram),Prakasam,2020 - 2021,Rabi,1077,1092,1.01
+Moong(Green Gram),Spsr nellore,2014 - 2015,Rabi,11526,9463,0.82
+Moong(Green Gram),Spsr nellore,2015 - 2016,Rabi,10335,5374,0.52
+Moong(Green Gram),Spsr nellore,2016 - 2017,Rabi,2747,1445,0.53
+Moong(Green Gram),Spsr nellore,2017 - 2018,Rabi,1153,583,0.51
+Moong(Green Gram),Spsr nellore,2018 - 2019,Rabi,2359,1892,0.8
+Moong(Green Gram),Spsr nellore,2019 - 2020,Rabi,4913,3326,0.68
+Moong(Green Gram),Spsr nellore,2020 - 2021,Rabi,1596,488,0.31
+Moong(Green Gram),Srikakulam,2014 - 2015,Rabi,32712,17207,0.53
+Moong(Green Gram),Srikakulam,2015 - 2016,Rabi,29610,17233,0.58
+Moong(Green Gram),Srikakulam,2016 - 2017,Rabi,31966,13969,0.44
+Moong(Green Gram),Srikakulam,2017 - 2018,Rabi,37346,18636,0.5
+Moong(Green Gram),Srikakulam,2018 - 2019,Rabi,30361,15545,0.51
+Moong(Green Gram),Srikakulam,2019 - 2020,Rabi,26653,14099,0.53
+Moong(Green Gram),Srikakulam,2020 - 2021,Rabi,19969,9465,0.47
+Moong(Green Gram),Visakhapatanam,2014 - 2015,Rabi,3670,3009,0.82
+Moong(Green Gram),Visakhapatanam,2015 - 2016,Rabi,3677,1857,0.51
+Moong(Green Gram),Visakhapatanam,2016 - 2017,Rabi,3738,2620,0.7
+Moong(Green Gram),Visakhapatanam,2017 - 2018,Rabi,3748,1604,0.43
+Moong(Green Gram),Visakhapatanam,2018 - 2019,Rabi,1803,678,0.38
+Moong(Green Gram),Visakhapatanam,2019 - 2020,Rabi,2654,998,0.38
+Moong(Green Gram),Visakhapatanam,2020 - 2021,Rabi,2961,1125,0.38
+Moong(Green Gram),Vizianagaram,2014 - 2015,Rabi,14272,7850,0.55
+Moong(Green Gram),Vizianagaram,2015 - 2016,Rabi,18257,10151,0.56
+Moong(Green Gram),Vizianagaram,2016 - 2017,Rabi,16952,7832,0.46
+Moong(Green Gram),Vizianagaram,2017 - 2018,Rabi,16143,9750,0.6
+Moong(Green Gram),Vizianagaram,2018 - 2019,Rabi,7974,3732,0.47
+Moong(Green Gram),Vizianagaram,2019 - 2020,Rabi,12470,9041,0.73
+Moong(Green Gram),Vizianagaram,2020 - 2021,Rabi,12127,6015,0.5
+Moong(Green Gram),West godavari,2014 - 2015,Rabi,8450,6143,0.73
+Moong(Green Gram),West godavari,2015 - 2016,Rabi,10539,10023,0.95
+Moong(Green Gram),West godavari,2016 - 2017,Rabi,8206,1863,0.23
+Moong(Green Gram),West godavari,2017 - 2018,Rabi,19940,13938,0.7
+Moong(Green Gram),West godavari,2018 - 2019,Rabi,9851,10048,1.02
+Moong(Green Gram),West godavari,2019 - 2020,Rabi,7296,8792,1.21
+Moong(Green Gram),West godavari,2020 - 2021,Rabi,5247,6853,1.31
+Safflower,Anantapur,2014 - 2015,Rabi,310,87,0.28
+Safflower,Anantapur,2015 - 2016,Rabi,162,124,0.77
+Safflower,Anantapur,2016 - 2017,Rabi,32,8,0.25
+Safflower,Anantapur,2018 - 2019,Rabi,51,8,0.16
+Safflower,Anantapur,2019 - 2020,Rabi,499,245,0.49
+Safflower,Anantapur,2020 - 2021,Rabi,691,355,0.51
+Safflower,Kadapa,2014 - 2015,Rabi,300,93,0.31
+Safflower,Kadapa,2015 - 2016,Rabi,28,22,0.79
+Safflower,Kadapa,2016 - 2017,Rabi,10,10,1
+Safflower,Kadapa,2018 - 2019,Rabi,230,37,0.16
+Safflower,Kadapa,2019 - 2020,Rabi,117,57,0.49
+Safflower,Kadapa,2020 - 2021,Rabi,212,111,0.52
+Safflower,Kurnool,2014 - 2015,Rabi,68,30,0.44
+Safflower,Kurnool,2015 - 2016,Rabi,114,66,0.58
+Safflower,Kurnool,2016 - 2017,Rabi,83,61,0.73
+Safflower,Kurnool,2017 - 2018,Rabi,20,13,0.65
+Safflower,Kurnool,2018 - 2019,Rabi,71,11,0.15
+Safflower,Kurnool,2019 - 2020,Rabi,87,43,0.49
+Safflower,Kurnool,2020 - 2021,Rabi,47,31,0.66
+Safflower,Prakasam,2014 - 2015,Rabi,3,1,0.33
+Safflower,Prakasam,2019 - 2020,Rabi,7,3,0.43
+Safflower,Prakasam,2020 - 2021,Rabi,3,2,0.67
+Safflower,Visakhapatanam,2018 - 2019,Rabi,28,4,0.14
+Safflower,Vizianagaram,2020 - 2021,Rabi,2,1,0.5
+Sunflower,Anantapur,2014 - 2015,Rabi,3386,1642,0.48
+Sunflower,Anantapur,2015 - 2016,Rabi,1989,1172,0.59
+Sunflower,Anantapur,2016 - 2017,Rabi,1214,853,0.7
+Sunflower,Anantapur,2017 - 2018,Rabi,507,400,0.79
+Sunflower,Anantapur,2018 - 2019,Rabi,1138,816,0.72
+Sunflower,Anantapur,2019 - 2020,Rabi,1027,645,0.63
+Sunflower,Anantapur,2020 - 2021,Rabi,2879,1273,0.44
+Sunflower,Chittoor,2014 - 2015,Rabi,1310,1104,0.84
+Sunflower,Chittoor,2015 - 2016,Rabi,842,722,0.86
+Sunflower,Chittoor,2016 - 2017,Rabi,773,995,1.29
+Sunflower,Chittoor,2017 - 2018,Rabi,625,1086,1.74
+Sunflower,Chittoor,2018 - 2019,Rabi,649,541,0.83
+Sunflower,Chittoor,2019 - 2020,Rabi,446,450,1.01
+Sunflower,Chittoor,2020 - 2021,Rabi,363,661,1.82
+Sunflower,East godavari,2014 - 2015,Rabi,379,365,0.96
+Sunflower,East godavari,2015 - 2016,Rabi,99,107,1.08
+Sunflower,East godavari,2016 - 2017,Rabi,103,79,0.77
+Sunflower,East godavari,2017 - 2018,Rabi,114,107,0.94
+Sunflower,East godavari,2018 - 2019,Rabi,187,58,0.31
+Sunflower,East godavari,2019 - 2020,Rabi,180,186,1.03
+Sunflower,East godavari,2020 - 2021,Rabi,139,316,2.27
+Sunflower,Guntur,2014 - 2015,Rabi,86,83,0.97
+Sunflower,Guntur,2015 - 2016,Rabi,2,2,1
+Sunflower,Guntur,2018 - 2019,Rabi,59,18,0.31
+Sunflower,Guntur,2019 - 2020,Rabi,9,9,1
+Sunflower,Guntur,2020 - 2021,Rabi,17,20,1.18
+Sunflower,Kadapa,2014 - 2015,Rabi,14902,10536,0.71
+Sunflower,Kadapa,2015 - 2016,Rabi,8871,8702,0.98
+Sunflower,Kadapa,2016 - 2017,Rabi,7185,10181,1.42
+Sunflower,Kadapa,2017 - 2018,Rabi,2947,6118,2.08
+Sunflower,Kadapa,2018 - 2019,Rabi,5219,4728,0.91
+Sunflower,Kadapa,2019 - 2020,Rabi,4012,4429,1.1
+Sunflower,Kadapa,2020 - 2021,Rabi,5174,3084,0.6
+Sunflower,Krishna,2014 - 2015,Rabi,15,14,0.93
+Sunflower,Krishna,2015 - 2016,Rabi,13,14,1.08
+Sunflower,Krishna,2016 - 2017,Rabi,5,4,0.8
+Sunflower,Krishna,2017 - 2018,Rabi,4,4,1
+Sunflower,Krishna,2018 - 2019,Rabi,29,9,0.31
+Sunflower,Krishna,2019 - 2020,Rabi,15,15,1
+Sunflower,Krishna,2020 - 2021,Rabi,9,11,1.22
+Sunflower,Kurnool,2014 - 2015,Rabi,8362,10294,1.23
+Sunflower,Kurnool,2015 - 2016,Rabi,3066,2066,0.67
+Sunflower,Kurnool,2016 - 2017,Rabi,1701,1965,1.16
+Sunflower,Kurnool,2017 - 2018,Rabi,548,433,0.79
+Sunflower,Kurnool,2018 - 2019,Rabi,1093,669,0.61
+Sunflower,Kurnool,2019 - 2020,Rabi,259,272,1.05
+Sunflower,Kurnool,2020 - 2021,Rabi,826,988,1.2
+Sunflower,Prakasam,2014 - 2015,Rabi,8090,7710,0.95
+Sunflower,Prakasam,2015 - 2016,Rabi,3312,3713,1.12
+Sunflower,Prakasam,2016 - 2017,Rabi,536,455,0.85
+Sunflower,Prakasam,2017 - 2018,Rabi,384,381,0.99
+Sunflower,Prakasam,2018 - 2019,Rabi,618,120,0.19
+Sunflower,Prakasam,2019 - 2020,Rabi,382,410,1.07
+Sunflower,Prakasam,2020 - 2021,Rabi,544,487,0.9
+Sunflower,Spsr nellore,2014 - 2015,Rabi,784,835,1.07
+Sunflower,Spsr nellore,2015 - 2016,Rabi,541,439,0.81
+Sunflower,Spsr nellore,2016 - 2017,Rabi,388,252,0.65
+Sunflower,Spsr nellore,2017 - 2018,Rabi,117,89,0.76
+Sunflower,Spsr nellore,2018 - 2019,Rabi,238,143,0.6
+Sunflower,Spsr nellore,2019 - 2020,Rabi,33,26,0.79
+Sunflower,Spsr nellore,2020 - 2021,Rabi,84,71,0.85
+Sunflower,Srikakulam,2014 - 2015,Rabi,1170,1127,0.96
+Sunflower,Srikakulam,2015 - 2016,Rabi,684,737,1.08
+Sunflower,Srikakulam,2016 - 2017,Rabi,488,373,0.76
+Sunflower,Srikakulam,2017 - 2018,Rabi,639,600,0.94
+Sunflower,Srikakulam,2018 - 2019,Rabi,639,197,0.31
+Sunflower,Srikakulam,2019 - 2020,Rabi,304,313,1.03
+Sunflower,Srikakulam,2020 - 2021,Rabi,303,382,1.26
+Sunflower,Visakhapatanam,2014 - 2015,Rabi,186,179,0.96
+Sunflower,Visakhapatanam,2015 - 2016,Rabi,132,142,1.08
+Sunflower,Visakhapatanam,2016 - 2017,Rabi,115,88,0.77
+Sunflower,Visakhapatanam,2017 - 2018,Rabi,98,92,0.94
+Sunflower,Visakhapatanam,2018 - 2019,Rabi,73,22,0.3
+Sunflower,Visakhapatanam,2019 - 2020,Rabi,74,76,1.03
+Sunflower,Visakhapatanam,2020 - 2021,Rabi,108,130,1.2
+Sunflower,Vizianagaram,2014 - 2015,Rabi,6,6,1
+Sunflower,Vizianagaram,2016 - 2017,Rabi,1,1,1
+Sunflower,Vizianagaram,2018 - 2019,Rabi,11,3,0.27
+Sunflower,Vizianagaram,2019 - 2020,Rabi,9,9,1
+Sunflower,Vizianagaram,2020 - 2021,Rabi,15,18,1.2
+Sunflower,West godavari,2014 - 2015,Rabi,335,323,0.96
+Sunflower,West godavari,2015 - 2016,Rabi,174,188,1.08
+Sunflower,West godavari,2016 - 2017,Rabi,93,71,0.76
+Sunflower,West godavari,2017 - 2018,Rabi,118,111,0.94
+Sunflower,West godavari,2018 - 2019,Rabi,128,39,0.3
+Sunflower,West godavari,2019 - 2020,Rabi,44,37,0.84
+Sunflower,West godavari,2020 - 2021,Rabi,31,66,2.13
